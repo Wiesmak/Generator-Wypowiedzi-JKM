@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Generator Wypowiedzi JKM</string>
+    <string name="long_name">Generator wypowiedzi Janusza Korwin-Mikkego</string>
+    <string name="krul">Korwin Krool</string>
+    <string name="zapychacz">Twój cytat</string>
+</resources>

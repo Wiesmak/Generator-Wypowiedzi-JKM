@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="part1">
+        <item>Proszę zwrócić uwagę, że</item>
+        <item>I tak mam trzy razy mniej czasu, więc proszę pozwolić mi powiedzieć:</item>
+        <item>Państwo się śmieją, ale</item>
+        <item>Ja nie potrzebowałem edukacji seksualnej, żeby wiedzieć, że</item>
+        <item>No niestety:</item>
+        <item>Gdzie leży przyczyna problemu? Ja państwu powiem:</item>
+        <item>Państwo chyba nie wiedzą, że</item>
+        <item>Oświadczam kategorycznie:</item>
+        <item>Powtarzam:</item>
+        <item>Powiedzmy to z całą mocą:</item>
+        <item>W Polsce dzisiaj</item>
+        <item>Państwo nie zdają sobie sprawy, że</item>
+        <item>To ja przepraszam bardzo:</item>
+        <item>Otóż nie wiem czy pan wie, że</item>
+        <item>Yyyyy...</item>
+        <item>Ja chcę powiedzieć jedną rzecz:</item>
+        <item>Trzeba powiedzieć jasno:</item>
+        <item>Jakby powiedział wybitny krakowianin Stanisław Lem,</item>
+        <item>Prosze mnie dobrze zrozumieć:</item>
+        <item>Ja chciałem państwu przypomnieć, że</item>
+        <item>Niech nie mają państwo złudzeń, że</item>
+        <item>Powiedzmy to wyraźnie:</item>
+    </string-array>
+    <string-array name="part2">
+        <item>właściciele niewolników</item>
+        <item>związkowcy</item>
+        <item>trockiści</item>
+        <item>tak zwane dzieci kwiaty</item>
+        <item>rozmaici urzędnicy</item>
+        <item>federaliści</item>
+        <item>etatyści</item>
+        <item>ci durnie i złodzieje</item>
+        <item>ludzie wybrani głosami meneli spod budki z piwem</item>
+        <item>socjaliści pobożni</item>
+        <item>socjaliści bezbożni</item>
+        <item>komuniści z krzyżem w zębach</item>
+        <item>agenci obcych służb</item>
+        <item>członkowie bandy czworga</item>
+        <item>pseudo-masoni z Wielkiego Wschodu Francji</item>
+        <item>przedstawiciele czerwonej hołoty</item>
+        <item>ci wszyscy (tfu!) geje</item>
+        <item>funkcjonariusze reżymowej telewizji</item>
+        <item>tak zwani ekolodzy</item>
+        <item>ci wszyscy (tfu!) demokraci</item>
+        <item>agenci bezpieki</item>
+        <item>feminazistki</item>
+    </string-array>
+    <string-array name="part3">
+        <item>po przeczytaniu Manifestu Komunistycznego</item>
+        <item>którymi się brzydzę</item>
+        <item>których nienawidzę</item>
+        <item>z okolic "Gazety Wyborczej"</item>
+        <item>czyli taka żydokomuna</item>
+        <item>odkąd zniesiono karę śmierci</item>
+        <item>którymi pogardzam</item>
+        <item>których miejsce w normalnym kraju jest w więzieniu</item>
+        <item>na polecenie Brukseli</item>
+        <item>posłusznie</item>
+        <item>bezmyślnie</item>
+        <item>z nieprawdopodobną pogardą dla człowieka</item>
+        <item>za pieniądze podatników</item>
+        <item>zgodnie z ideologią LGBTQZ</item>
+        <item>za wszelką cenę</item>
+        <item>zupełnie bezkarnie </item>
+        <item>całkowicie bezczelnie</item>
+        <item>o poglądach na lewo od komunizmu</item>
+        <item>celowo i świadomie</item>
+        <item>z premedytacją</item>
+        <item>od czasów Okrągłego Stołu</item>
+        <item>w ramach postępu</item>
+    </string-array>
+    <string-array name="part4">
+        <item>udają homoseksualistów</item>
+        <item>niszczą rodzinę</item>
+        <item>idą do polityki</item>
+        <item>zakazują góralom robienia oscypków</item>
+        <item>organizują para olimpiady</item>
+        <item>wprowadzają ustrój, w którym raz na cztery lata można wybrać sobie pana</item>
+        <item>ustawiają fotoradary</item>
+        <item>wprowadzają dotacje</item>
+        <item>wydzielają buspasy</item>
+        <item>podnoszą wiek emerytalny</item>
+        <item>rżną głupa</item>
+        <item>odbierają dzieci rodzicom</item>
+        <item>wprowadzają absurdalne przepisy</item>
+        <item>umieszczają dzieci w szkotach koedukacyjnych</item>
+        <item>wprowadzają parytety</item>
+        <item>nawołują do podniesienia podatków</item>
+        <item>próbują wyrzucić kierowców z miast</item>
+        <item>próbują skłócić Polskę z Rosją</item>
+        <item>głoszą brednię o globalnym ociepleniu</item>
+        <item>zakazują posiadania broni</item>
+        <item>nie dopuszczają prawicy do władzy</item>
+        <item>uczą dzieci homoseksualizmu</item>
+    </string-array>
+    <string-array name="part5">
+        <item>żeby poddawać wszystkich tresurze</item>
+        <item>bo taka jest ich natura</item>
+        <item>bo chcą wszystko kontrolować</item>
+        <item>bo nie rozumieją, że socjalizm nie działa</item>
+        <item>żeby wreszcie zapanowal socjalizm</item>
+        <item>dokładnie tak jak tow. Janosik</item>
+        <item>zamiast pozwolić ludziom zarabiać</item>
+        <item>żeby wyrwać kobiety z domu</item>
+        <item>bo to jest w interesie tak zwanych ludzi pracy</item>
+        <item>zamiast pozwolić decydować konsumentowi</item>
+        <item>żeby nie opłacało się mieć dzieci</item>
+        <item>zamiast obniżyć podatki</item>
+        <item>bo nie rozumieją, że selekcja naturalna jest czymś dobrym</item>
+        <item>żeby mężczyźni przestali być agresywni</item>
+        <item>bo dzięki temu mogą brać łapówki</item>
+        <item>bo dzięki temu mogą kraść</item>
+        <item>bo dostają za to pieniądze</item>
+        <item>bo tak się uczy w państwowej szkole</item>
+        <item>bo bez tego (tfu!) demokracja nie może istnieć</item>
+        <item>bo głupich jest więcej niż mądrych</item>
+        <item>bo chcą tworzyć raj na ziemi</item>
+        <item>bo chcą niszczyć cywilizację białego człowieka</item>
+    </string-array>
+    <string-array name="part6">
+        <item>co ma zresztą tyle samo sensu, co zawody w szachach dla debili.</item>
+        <item>co zostało dokładnie zaplanowane w Magdalence przez śp. generała Kiszczaka.</item>
+        <item>i trzeba być idiotą, żeby ten system popierać.</item>
+        <item>ale nawet ja jeszcze dożyję normalnych czasów.</item>
+        <item>co dowodzi, że wyskrobano nie tych, co trzeba.</item>
+        <item>a zwykłym ludziom wmawiają, że im coś „dadzą".</item>
+        <item>— cóż: chcieliście d***kracji, to macie.</item>
+        <item>dlatego trzeba zlikwidować koryto, a nie zmieniać świnie.</item>
+        <item>a wystarczyłoby przestać wypłacać zasiłki.</item>
+        <item>podczas gdy normalni ludzie uważani są za dziwaków.</item>
+        <item>co w wieku XIX po prostu by wyśmiano.</item>
+        <item>— dlatego w społeczeństwie jest równość. a powinno być rozwarstwienie.</item>
+        <item>co prowadzi Polskę do katastrofy.</item>
+        <item>— dlatego trzeba przywrócić normalność.</item>
+        <item>ale w wolnej Polsce pójdą siedzieć.</item>
+        <item>przez kolejne kadencje.</item>
+        <item>o czym się nie mówi.</item>
+        <item>właśnie dlatego Europa umiera.</item>
+        <item>ale przyjdą muzułmanie i zrobią porządek.</item>
+        <item>— tak samo zresztą Jak za Hitlera.</item>
+        <item>— proszę zobaczyć, co się dzieje na Zachodzie. jeśli mi państwo nie wierzą.</item>
+        <item>co lat temu sto nikomu nie przyszłoby nawet do głowy.</item>
+    </string-array>
+</resources>
